@@ -1,2 +1,2 @@
-# super-market-billing-in-c-
+# super-market-billing-in-c++
 the first c++  project  
